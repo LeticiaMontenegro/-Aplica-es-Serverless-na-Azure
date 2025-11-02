@@ -81,6 +81,4 @@ O projeto foi inspirado e baseado no repositório do expert:
 * Automação de tarefas e comunicação eficiente entre serviços.
 
 ---
-
-Quer que eu monte essa versão personalizada também?
-```
+📚 Feito por Letícia Montenegro 🔗 Perfil DIO: https://web.dio.me/users/leehmontenegro 🔗 LinkedIn: https://www.linkedin.com/in/leehmontenegro/ 💻 Projeto conceitual desenvolvido para o desafio DIO
