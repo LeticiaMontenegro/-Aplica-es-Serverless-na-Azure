@@ -61,7 +61,6 @@ O projeto foi inspirado e baseado no repositório do expert:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seuusuario/seu-repositorio.git
-````
 
 2. Configure as variáveis e recursos no portal da **Azure**:
 
@@ -72,7 +71,6 @@ O projeto foi inspirado e baseado no repositório do expert:
 
 3. Faça o deploy das funções e valide o fluxo no portal Azure.
 
----
 
 ##  Resultado Esperado
 
@@ -82,5 +80,7 @@ O projeto foi inspirado e baseado no repositório do expert:
 
 
 
-##📚 Feito por Letícia Montenegro 🔗 Perfil DIO: https://web.dio.me/users/leehmontenegro 🔗 LinkedIn: https://www.linkedin.com/in/leehmontenegro/ 💻 Projeto conceitual desenvolvido para o desafio DIO
+
+
+📚 Feito por Letícia Montenegro 🔗 Perfil DIO: https://web.dio.me/users/leehmontenegro 🔗 LinkedIn: https://www.linkedin.com/in/leehmontenegro/ 💻 Projeto conceitual desenvolvido para o desafio DIO
 
