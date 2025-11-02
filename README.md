@@ -80,5 +80,7 @@ O projeto foi inspirado e baseado no repositório do expert:
 * Entendimento prático do funcionamento de **Functions**, **Logic Apps** e **Service Bus**;
 * Automação de tarefas e comunicação eficiente entre serviços.
 
----
-📚 Feito por Letícia Montenegro 🔗 Perfil DIO: https://web.dio.me/users/leehmontenegro 🔗 LinkedIn: https://www.linkedin.com/in/leehmontenegro/ 💻 Projeto conceitual desenvolvido para o desafio DIO
+
+
+##📚 Feito por Letícia Montenegro 🔗 Perfil DIO: https://web.dio.me/users/leehmontenegro 🔗 LinkedIn: https://www.linkedin.com/in/leehmontenegro/ 💻 Projeto conceitual desenvolvido para o desafio DIO
+
